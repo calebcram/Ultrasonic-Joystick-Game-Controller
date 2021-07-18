@@ -1,0 +1,2 @@
+# Ultrasonic Joystick Game Controller
+ This is a custom game controller I built using an arduino uno, with a joystick an ultrasonic sensor and 9 volt battery for power. I then linked these to a minigame I created following the roll-a-ball tutorial from Unity allowing the player to use the joystick to control the horizonal movement of the ball, and the hand distance from the ultrasonic sensor to control the elevation of the ball
